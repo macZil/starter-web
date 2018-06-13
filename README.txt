@@ -16,3 +16,7 @@ This is a simple web project truly simple!
 
 Just do it!
 
+## How to Contribute
+
+2018. Git.Training.
+
